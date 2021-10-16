@@ -1,5 +1,3 @@
-This repo is to start any tailwindCSS , ReactJS project. All the required tailwind setup is done and folder structure is maintained. 
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
